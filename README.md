@@ -1,4 +1,4 @@
-# adivinha.py
+# Jogo do adivinha.py
 from random import randint
 
 print("####-------------- Vamos Jogar ? -------------####")
